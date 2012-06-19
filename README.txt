@@ -11,6 +11,13 @@ listening to it. When a hotkey event is received, it steps through your
 monitors, one monitor per hotkey. When your last monitor is reached, the
 program selects your first one again.
 
+Warning
+=======
+
+Unless you have a multi-monitor setup *and* use some kind of focus-follow-mouse
+feature on Windows (I recommend the "True X-Mouse Gizmo for Windows", you might
+not be able to fully enjoy the benefits of this program.
+
 Hotkey
 ======
 

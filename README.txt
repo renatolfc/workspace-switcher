@@ -11,6 +11,15 @@ listening to it. When a hotkey event is received, it steps through your
 monitors, one monitor per hotkey. When your last monitor is reached, the
 program selects your first one again.
 
+Dependencies
+============
+
+You are going to need a recent Python installed on your Windows box and you are
+also going to need the Python for Windows Extensions. You can find it on
+http://sourceforge.net/projects/pywin32/. If you don't have Python installed,
+I recommend installing the Community Edition of ActiveState's Python, which can
+be found at http://www.activestate.com/activepython/downloads.
+
 Warning
 =======
 
